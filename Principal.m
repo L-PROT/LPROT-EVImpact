@@ -85,7 +85,7 @@ end
              DemandaVeiculoDomingo;
         
         % Compila a carga no OpenDSS     
-             DSSText.command =  'Compile (C:\Users\rmelo\Downloads\USP108x - OpenDSS.dss)';
+             DSSText.command =  'Compile (C:\Users\rmelo\Downloads\USP108x - OpenDSS\test.dss)';
         
         % Roda a solução
             DSSText.command = 'solve';
